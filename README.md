@@ -10,6 +10,7 @@ Improve image restoration performance and analyze failure cases in generative mo
 - Python
 - PyTorch
 - Deep Learning
+- GAN's
 
 ## 🚀 Approach
 - Developed a multi-task restoration model handling multiple degradation types
